@@ -43,5 +43,5 @@ Future<Uri> getBinUri() async {
   var pkg = parsed['packages'].where((it) => it['name'] == 'detective').first;
   String rootUriString = pkg['rootUri'];
 
-  return Uri.parse(rootUriString).resolve('bin');
+  return Uri.parse(rootUriString).resolve('bin/');
 }
