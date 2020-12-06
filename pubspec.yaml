@@ -16,6 +16,3 @@ dev_dependencies:
 
 executables:
   detective:
-  linux:
-  macos:
-  windows:
