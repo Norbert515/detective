@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'dart:io';
 import 'package:path/path.dart';
 
@@ -15,16 +16,32 @@ void main() async {
     exit(22);
   }
 
+
+  var binUri = await getBinUri();
+
   if(Platform.isWindows) {
-    var filePath = join(Platform.script.resolve('windows').toFilePath(windows: true), 'debuggable.exe');
+    var filePath = join(binUri.resolve('windows').toFilePath(windows: true), 'debuggable.exe');
     await Process.start(filePath, [], workingDirectory: Directory.current.path);
   } else if(Platform.isMacOS) {
-    var filePath = join(Platform.script.resolve('macos').toFilePath(), 'debuggable.app');
+    var filePath = join(binUri.resolve('macos').toFilePath(), 'debuggable.app');
     await Process.start('chmod', ['+x', filePath]);
     await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path);
   } else if(Platform.isLinux) {
-    var filePath = join(Platform.script.resolve('linux').toFilePath(), 'debuggable');
+    var filePath = join(binUri.resolve('linux').toFilePath(), 'debuggable');
     await Process.start('chmod', ['+x', filePath]);
     await Process.start(filePath, [], workingDirectory: Directory.current.path);
   }
+}
+
+Future<Uri> getBinUri() async {
+
+  var packageConfigPath = Platform.script.resolve('..').resolve('.dart_tool').resolve('package_config.json').toFilePath(windows: Platform.isWindows);
+  var packageConfigContent = await File(packageConfigPath).readAsString();
+
+  Map<dynamic, dynamic> parsed = json.decode(packageConfigContent);
+
+  var pkg = parsed['packages'].where((it) => it['name'] == 'detective').first;
+  String rootUriString = pkg['rootUri'];
+
+  return Uri.parse(rootUriString).resolve('bin');
 }
