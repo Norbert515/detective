@@ -16,7 +16,15 @@ void main() async {
   }
 
   if(Platform.isWindows) {
-    var filePath = join(Platform.script.resolve('app').toFilePath(windows: true), 'debuggable.exe');
+    var filePath = join(Platform.script.resolve('windows').toFilePath(windows: true), 'debuggable.exe');
+    await Process.start(filePath, [], workingDirectory: Directory.current.path);
+  } else if(Platform.isMacOS) {
+    var filePath = join(Platform.script.resolve('macos').toFilePath(), 'debuggable.app');
+    await Process.start('chmod', ['+x', filePath]);
+    await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path);
+  } else if(Platform.isLinux) {
+    var filePath = join(Platform.script.resolve('linux').toFilePath(), 'debuggable');
+    await Process.start('chmod', ['+x', filePath]);
     await Process.start(filePath, [], workingDirectory: Directory.current.path);
   }
 }
