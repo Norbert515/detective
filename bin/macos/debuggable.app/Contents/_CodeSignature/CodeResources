@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		9v11Jkc5fd08BQETKVw8A3RC/+k=
+		+TABnEI/+d9fMg5TabphYePPxhQ=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -221,10 +221,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RmhvAxUFq4t9iiCWZPiZZBM9YCk=
+			eGjPaYdcpYd/GTG5ISv85WD/v1M=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"32e369825e9c4389700c5da401cc5edc9b25e704" or cdhash H"46686f031505ab8b7d8a209664f89964133d6029"</string>
+			<string>cdhash H"965c139760ea13a654c645011a552433d09f96b3" or cdhash H"7868cf69875ca5877f1931b9212bfce560ffbf53"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -241,11 +241,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9v11Jkc5fd08BQETKVw8A3RC/+k=
+			+TABnEI/+d9fMg5TabphYePPxhQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MysBo9Z++jyE5rRzApefbTJBZqLUVlNjSGPkfqIsFyA=
+			SjkeS0mjFD//BnCOQ43i5TREukQBJ7pXvpCmu1JpWZ0=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
