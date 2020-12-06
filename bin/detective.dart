@@ -35,7 +35,7 @@ void main() async {
 
 Future<Uri> getBinUri() async {
 
-  var packageConfigPath = Platform.script.resolve('..').resolve('.dart_tool').resolve('package_config.json').toFilePath(windows: Platform.isWindows);
+  var packageConfigPath = Platform.script.resolve('.').resolve('.dart_tool').resolve('package_config.json').toFilePath(windows: Platform.isWindows);
   var packageConfigContent = await File(packageConfigPath).readAsString();
 
   Map<dynamic, dynamic> parsed = json.decode(packageConfigContent);
