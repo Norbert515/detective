@@ -34,7 +34,7 @@ void main() async {
     await Process.start('chmod', ['+x', macosContent.toFilePath()]);
     await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path, environment: {
       'connect': connectUriString,
-    });
+    }, runInShell: true);
   } else if(Platform.isLinux) {
     var filePath = join(binUri.resolve('linux').toFilePath(), 'debuggable');
     await Process.start('chmod', ['+x', filePath]);
