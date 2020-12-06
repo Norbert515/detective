@@ -24,7 +24,9 @@ void main() async {
     await Process.start(filePath, [], workingDirectory: Directory.current.path);
   } else if(Platform.isMacOS) {
     var filePath = join(binUri.resolve('macos').toFilePath(), 'debuggable.app');
+    var macosContent = binUri.resolve('macos/').resolve('debuggable.app/').resolve('Contents/').resolve('MacOS/').resolve('debuggable');
     await Process.start('chmod', ['+x', filePath]);
+    await Process.start('chmod', ['+x', macosContent.toFilePath()]);
     await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path);
   } else if(Platform.isLinux) {
     var filePath = join(binUri.resolve('linux').toFilePath(), 'debuggable');
