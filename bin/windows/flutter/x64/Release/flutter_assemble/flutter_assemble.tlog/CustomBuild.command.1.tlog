@@ -1,0 +1,28 @@
+^D:\A\DEBUGGABLE\DEBUGGABLE\DETECTIVE\BUILD\WINDOWS\CMAKEFILES\C084974B6E8EA46AA5F0ACC5F8D793AA\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT="D:\a\debuggable\debuggable\flutter" PROJECT_DIR="D:\a\debuggable\debuggable\detective" FLUTTER_ROOT="D:\a\debuggable\debuggable\flutter" FLUTTER_EPHEMERAL_DIR="D:\a\debuggable\debuggable\detective\windows\flutter\ephemeral" PROJECT_DIR="D:\a\debuggable\debuggable\detective" FLUTTER_TARGET="lib\main.dart" DART_OBFUSCATION="false" TRACK_WIDGET_CREATION="true" TREE_SHAKE_ICONS="false" PACKAGE_CONFIG="D:\a\debuggable\debuggable\detective\.dart_tool\package_config.json" D:/a/debuggable/debuggable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\A\DEBUGGABLE\DEBUGGABLE\DETECTIVE\BUILD\WINDOWS\CMAKEFILES\DBBBBF0B5CBA6D98762AAA4B3094D552\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\A\DEBUGGABLE\DEBUGGABLE\DETECTIVE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/a/debuggable/debuggable/detective/windows -BD:/a/debuggable/debuggable/detective/build/windows --check-stamp-file D:/a/debuggable/debuggable/detective/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

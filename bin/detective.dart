@@ -16,22 +16,31 @@ void main() async {
     exit(22);
   }
 
+  var connectUriString = await file.readAsString();
+  print('Connecting to $connectUriString');
+
 
   var binUri = await getBinUri();
 
   if(Platform.isWindows) {
     var filePath = join(binUri.resolve('windows').toFilePath(windows: true), 'debuggable.exe');
-    await Process.start(filePath, [], workingDirectory: Directory.current.path);
+    await Process.start(filePath, [], workingDirectory: Directory.current.path, environment: {
+      'connect': connectUriString,
+    });
   } else if(Platform.isMacOS) {
     var filePath = join(binUri.resolve('macos').toFilePath(), 'debuggable.app');
     var macosContent = binUri.resolve('macos/').resolve('debuggable.app/').resolve('Contents/').resolve('MacOS/').resolve('debuggable');
     await Process.start('chmod', ['+x', filePath]);
     await Process.start('chmod', ['+x', macosContent.toFilePath()]);
-    await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path);
+    await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path, environment: {
+      'connect': connectUriString,
+    });
   } else if(Platform.isLinux) {
     var filePath = join(binUri.resolve('linux').toFilePath(), 'debuggable');
     await Process.start('chmod', ['+x', filePath]);
-    await Process.start(filePath, [], workingDirectory: Directory.current.path);
+    await Process.start(filePath, [], workingDirectory: Directory.current.path, environment: {
+      'connect': connectUriString,
+    });
   }
 }
 

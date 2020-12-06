@@ -1,0 +1,10 @@
+D:/a/debuggable/debuggable/detective/build/windows/CMakeFiles/INSTALL.dir
+D:/a/debuggable/debuggable/detective/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/a/debuggable/debuggable/detective/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/a/debuggable/debuggable/detective/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/a/debuggable/debuggable/detective/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/a/debuggable/debuggable/detective/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/a/debuggable/debuggable/detective/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/a/debuggable/debuggable/detective/build/windows/runner/CMakeFiles/debuggable.dir
+D:/a/debuggable/debuggable/detective/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/a/debuggable/debuggable/detective/build/windows/runner/CMakeFiles/ALL_BUILD.dir
