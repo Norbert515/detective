@@ -10,15 +10,15 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		mPNuMoqSe1x8Z4CnzjQJ1UK9S4U=
+		s4OvBBzreLBaKKDwregVGNh8fv4=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
-		+M48rsjRKvZXhPmZDV4DKohahoo=
+		xhM2Hxe1Ngeo79UXyJ/9Sg7SfQU=
 		</data>
 		<key>Resources/flutter_assets/NOTICES</key>
 		<data>
-		p3CAWJKKEdQ63/il+ciMCd1HvTs=
+		LTp+BOc0dOwDcDlYXxwhIPNUdi8=
 		</data>
 		<key>Resources/flutter_assets/assets/SourceCodePro/SourceCodePro-Black.ttf</key>
 		<data>
@@ -196,6 +196,30 @@
 		<data>
 		mRbj28OZDjBzz1ostMLpWCc7dTI=
 		</data>
+		<key>Resources/flutter_assets/packages/wiredash/assets/images/logo_footer.png</key>
+		<data>
+		JLgjp8SClGq490FlZVaoFtOpLY4=
+		</data>
+		<key>Resources/flutter_assets/packages/wiredash/assets/images/logo_grey.png</key>
+		<data>
+		aDK8+zp9IqO1twDRYaEtIXU966k=
+		</data>
+		<key>Resources/flutter_assets/packages/wiredash/assets/images/logo_white.png</key>
+		<data>
+		A1c0SmcauXHP7eA/bgKjwf3eUac=
+		</data>
+		<key>Resources/flutter_assets/packages/wiredash/assets/images/pen.png</key>
+		<data>
+		iw+seth9NEakVHhztmWbZHiLTpI=
+		</data>
+		<key>Resources/flutter_assets/packages/wiredash/lib/assets/fonts/LexendDeca-Regular.ttf</key>
+		<data>
+		Ex7k7DW6j3m6Qm1hje+zGtoBnl0=
+		</data>
+		<key>Resources/flutter_assets/packages/wiredash/lib/assets/fonts/Wiredash-Icons.ttf</key>
+		<data>
+		UTVG0DBIFmateatisEV8tNWhCVI=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -214,33 +238,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mPNuMoqSe1x8Z4CnzjQJ1UK9S4U=
+			s4OvBBzreLBaKKDwregVGNh8fv4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cXEs+qMVZgRGX0Gk+s8quxhch7afq5FNFADNAYtHbUw=
+			llko3sYgUhB/sTAhaGhKwDkgrcF2hoXJAMCAMZJviJ8=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+M48rsjRKvZXhPmZDV4DKohahoo=
+			xhM2Hxe1Ngeo79UXyJ/9Sg7SfQU=
 			</data>
 			<key>hash2</key>
 			<data>
-			tfgWC9VIEhylpYO+fI7xfdPLIpjxvmypbXyxtMhpKqU=
+			6s66HQjSOBISCKEqOOWbVaiB+dI6fL3VWg8Gm/Q/U7Y=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/NOTICES</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p3CAWJKKEdQ63/il+ciMCd1HvTs=
+			LTp+BOc0dOwDcDlYXxwhIPNUdi8=
 			</data>
 			<key>hash2</key>
 			<data>
-			5LCXmi+tCO62ESkOSgHnSLVTnZW/2NaUyNZnbadiy8M=
+			bL4bAlnP3ty0ouxqrphh4gOes9eae2W9TiEOt7dm08M=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/assets/SourceCodePro/SourceCodePro-Black.ttf</key>
@@ -725,6 +749,72 @@
 			<key>hash2</key>
 			<data>
 			F2vaZmHyE93kfCEU125HbsjKmq4H3VT5VQ0tKP4CtP0=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/wiredash/assets/images/logo_footer.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JLgjp8SClGq490FlZVaoFtOpLY4=
+			</data>
+			<key>hash2</key>
+			<data>
+			E064i37VlttY0/4FCOk/u6HJFhPWMILkx73XHG8NBkc=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/wiredash/assets/images/logo_grey.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aDK8+zp9IqO1twDRYaEtIXU966k=
+			</data>
+			<key>hash2</key>
+			<data>
+			CmMA9vdVpeRrOWA6MRiR36l5I8IYS6lZW+JQiTyO59g=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/wiredash/assets/images/logo_white.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A1c0SmcauXHP7eA/bgKjwf3eUac=
+			</data>
+			<key>hash2</key>
+			<data>
+			7Tf5/iohcx6ykTz+368DhtSLKqwZWOPBnsa1so+th0E=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/wiredash/assets/images/pen.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iw+seth9NEakVHhztmWbZHiLTpI=
+			</data>
+			<key>hash2</key>
+			<data>
+			4UJEKWjUGAzvu3OCYRdXnQLEW1KDCqB07LwXNY/wFZo=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/wiredash/lib/assets/fonts/LexendDeca-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ex7k7DW6j3m6Qm1hje+zGtoBnl0=
+			</data>
+			<key>hash2</key>
+			<data>
+			VnMixcVMwDZASY2WPRGEBfO/+il+C3dZIlDpmabnq5k=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/wiredash/lib/assets/fonts/Wiredash-Icons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UTVG0DBIFmateatisEV8tNWhCVI=
+			</data>
+			<key>hash2</key>
+			<data>
+			8IhlGJcr97tXpXy4VePf40FA/mG3JXvw+1+R6beqOzY=
 			</data>
 		</dict>
 	</dict>
