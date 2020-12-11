@@ -1,4 +1,4 @@
 Real time state inspection for Flutter
 
-Visit [detective.dev]! for more information 
+Visit [www.detective.dev] for more information 
 
