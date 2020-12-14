@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		s4OvBBzreLBaKKDwregVGNh8fv4=
+		iGCEC2W8C990oyCZNDjbY4bDjk8=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/flutter_assets/NOTICES</key>
 		<data>
-		LTp+BOc0dOwDcDlYXxwhIPNUdi8=
+		TW+cIWNvmT81NgZn2mrAl27MYqs=
 		</data>
 		<key>Resources/flutter_assets/assets/SourceCodePro/SourceCodePro-Black.ttf</key>
 		<data>
@@ -196,6 +196,14 @@
 		<data>
 		mRbj28OZDjBzz1ostMLpWCc7dTI=
 		</data>
+		<key>Resources/flutter_assets/packages/fluttertoast/assets/toastify.css</key>
+		<data>
+		RLNbPCJYbExa/jvemin4eeGwpmc=
+		</data>
+		<key>Resources/flutter_assets/packages/fluttertoast/assets/toastify.js</key>
+		<data>
+		a/x6K9GK70hjSV3hGpDzgBp5CUE=
+		</data>
 		<key>Resources/flutter_assets/packages/wiredash/assets/images/logo_footer.png</key>
 		<data>
 		JLgjp8SClGq490FlZVaoFtOpLY4=
@@ -238,11 +246,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s4OvBBzreLBaKKDwregVGNh8fv4=
+			iGCEC2W8C990oyCZNDjbY4bDjk8=
 			</data>
 			<key>hash2</key>
 			<data>
-			llko3sYgUhB/sTAhaGhKwDkgrcF2hoXJAMCAMZJviJ8=
+			1re9TOMtHyoQUzAXlllqIqCtbSoLgsj+WPFLy5ddO6c=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -260,11 +268,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LTp+BOc0dOwDcDlYXxwhIPNUdi8=
+			TW+cIWNvmT81NgZn2mrAl27MYqs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bL4bAlnP3ty0ouxqrphh4gOes9eae2W9TiEOt7dm08M=
+			bvCzkRfaBEZz/4Caw4hlPaXlHB3Q8rvJTLylsFAjBnQ=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/assets/SourceCodePro/SourceCodePro-Black.ttf</key>
@@ -749,6 +757,28 @@
 			<key>hash2</key>
 			<data>
 			F2vaZmHyE93kfCEU125HbsjKmq4H3VT5VQ0tKP4CtP0=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/fluttertoast/assets/toastify.css</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RLNbPCJYbExa/jvemin4eeGwpmc=
+			</data>
+			<key>hash2</key>
+			<data>
+			aVT9MP/JMGuG9aRUUGzfJvUf1hZo5cbeyKYR9uxbFPo=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/fluttertoast/assets/toastify.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a/x6K9GK70hjSV3hGpDzgBp5CUE=
+			</data>
+			<key>hash2</key>
+			<data>
+			1QAWEctMm3Vin+OG3QI8zFtcT4LJD5Ifhw00+IhCfeE=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/wiredash/assets/images/logo_footer.png</key>
