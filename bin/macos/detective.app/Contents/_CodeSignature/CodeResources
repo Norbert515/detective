@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		ZdgAaS/fdM0TwlstZeF9kBnDXdw=
+		LCuQOVevQiuq4QQIZi3kj+xssGo=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -23,10 +23,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			OVXuF07HdrGSsrogPdb1FGDpW/Y=
+			VnZcf8kVDC6WniaBykr9U11xrl4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"3ac35558400c197b7075fcbf3ae182748bad2d0c" or cdhash H"3955ee174ec776b192b2ba203dd6f51460e95bf6"</string>
+			<string>cdhash H"c751d205dcb9fccda76236fa4705e4562748b824" or cdhash H"56765c7fc9150c2e969e2681ca4afd535d71ae5e"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -221,19 +221,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			CKYsVBCKWbBYWUraHDR5tYvYYBo=
+			2/sZQ6JMC3pQDAhBXfGqk/vq+Lk=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"6b3cf24f73a6ee8ea8c13caf0e78916212e7192d" or cdhash H"08a62c54108a59b058594ada1c3479b58bd8601a"</string>
+			<string>cdhash H"ce6c2dbfe966d53b5b3271017c94ff1fa0d21f4e" or cdhash H"dbfb1943a24c0b7a500c08415df1aa93fbeaf8b9"</string>
 		</dict>
 		<key>Frameworks/shared_preferences_macos.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			u/4HpcxmVKjFBAh2CTMZzeYfLDk=
+			3SPaNX3gsYKxqneOYRQGtRhQZs8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"cb23a5d228891dc26a620f49399104a9123deb1a" or cdhash H"bbfe07a5cc6654a8c5040876093319cde61f2c39"</string>
+			<string>cdhash H"37e2d4b55e8616423cc67ec64c55b2e2287a6e67" or cdhash H"dd23da357de0b182b1aa778e611406b5185066cf"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -250,11 +250,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZdgAaS/fdM0TwlstZeF9kBnDXdw=
+			LCuQOVevQiuq4QQIZi3kj+xssGo=
 			</data>
 			<key>hash2</key>
 			<data>
-			NMaaVJ+2kGGfp2bSynRibD9LndnLADwB2MTHMDMqDUg=
+			wQZOiBWzbeG3DFSMgWe5lDJpwTJq58kbPsDyjW6cqd8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
