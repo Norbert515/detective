@@ -5,7 +5,7 @@ import 'package:path/path.dart';
 /// Main function to start the debugger
 ///
 /// This is needed to launch the correct desktop application
-void main() async {
+void main(List<String> args) async {
 
   var file = File(Directory.current.uri.resolve('detective_connect.txt').toFilePath(windows: Platform.isWindows));
 
@@ -20,27 +20,28 @@ void main() async {
   print('Connecting to $connectUriString');
 
 
+  var env = <String, String>{
+    'CONNECT': connectUriString,
+  };
+  if(args.length == 1) {
+    env['license_key'] = args.first;
+  }
+
   var binUri = await getBinUri();
 
   if(Platform.isWindows) {
     var filePath = join(binUri.resolve('windows').toFilePath(windows: true), 'debuggable.exe');
-    await Process.start(filePath, [], workingDirectory: Directory.current.path, environment: {
-      'CONNECT': connectUriString,
-    });
+    await Process.start(filePath, [], workingDirectory: Directory.current.path, environment: env);
   } else if(Platform.isMacOS) {
     var filePath = join(binUri.resolve('macos').toFilePath(), 'detective.app');
-    var macosContent = binUri.resolve('macos/').resolve('detective.app/').resolve('Contents/').resolve('MacOS/').resolve('detective');
+    var macosContent = binUri.resolve('macos/').resolve('detective.app/').resolve('Contents/').resolve('MacOS/').resolve('debuggable');
     await Process.start('chmod', ['+x', filePath]);
     await Process.start('chmod', ['+x', macosContent.toFilePath()]);
-    await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path, environment: {
-      'CONNECT': connectUriString,
-    });
+    await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path, environment: env);
   } else if(Platform.isLinux) {
     var filePath = join(binUri.resolve('linux').toFilePath(), 'debuggable');
     await Process.start('chmod', ['+x', filePath]);
-    await Process.start(filePath, [], workingDirectory: Directory.current.path, environment: {
-      'CONNECT': connectUriString,
-    });
+    await Process.start(filePath, [], workingDirectory: Directory.current.path, environment: env);
   }
 }
 
