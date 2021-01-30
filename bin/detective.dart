@@ -34,7 +34,7 @@ void main(List<String> args) async {
     await Process.start(filePath, [], workingDirectory: Directory.current.path, environment: env);
   } else if(Platform.isMacOS) {
     var filePath = join(binUri.resolve('macos').toFilePath(), 'detective.app');
-    var macosContent = binUri.resolve('macos/').resolve('detective.app/').resolve('Contents/').resolve('MacOS/').resolve('debuggable');
+    var macosContent = binUri.resolve('macos/').resolve('detective.app/').resolve('Contents/').resolve('MacOS/').resolve('detective');
     await Process.start('chmod', ['+x', filePath]);
     await Process.start('chmod', ['+x', macosContent.toFilePath()]);
     await Process.start('open', ['-a', filePath], workingDirectory: Directory.current.path, environment: env);
