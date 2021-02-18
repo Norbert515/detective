@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/flutter_assets/NOTICES</key>
 		<data>
-		ak39TnEQHfZnM0Dj1jjN0bDaYv0=
+		cN164L9/sDqdYWIjkkjT4UN7rt4=
 		</data>
 		<key>Resources/flutter_assets/assets/SourceCodePro/SourceCodePro-Black.ttf</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		XxTTbEdqMMr+614Mzm3EJYMaT9I=
+		EwhdISChevJj6bB8K52Z4eZi2yg=
 		</data>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/Feather.ttf</key>
 		<data>
-		N8tVG0ETiQxSP0aeapsrKcTEm+Q=
+		BZL+iT9IXO+DJFB8MRx32HAGF+I=
 		</data>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/FontAwesome.ttf</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Resources/flutter_assets/packages/wiredash/lib/assets/fonts/Wiredash-Icons.ttf</key>
 		<data>
-		UTVG0DBIFmateatisEV8tNWhCVI=
+		uccEgB5bE02ldVKFeKkaN1I0G5A=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -264,11 +264,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ak39TnEQHfZnM0Dj1jjN0bDaYv0=
+			cN164L9/sDqdYWIjkkjT4UN7rt4=
 			</data>
 			<key>hash2</key>
 			<data>
-			aMJ7wpGWLKG/kSHObVVKTG/3bn058j9Ar6uCS1kNjb8=
+			HoGBtr9JykLJTlRNMlSKPLaaFZR20NlQ6s9KG8KmSP4=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/assets/SourceCodePro/SourceCodePro-Black.ttf</key>
@@ -561,11 +561,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XxTTbEdqMMr+614Mzm3EJYMaT9I=
+			EwhdISChevJj6bB8K52Z4eZi2yg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nt7OTUXA/dkAWXOmvWbTlkJLC1yvAxfCcd3OIaLWdQQ=
+			15h72KYXGNe9DgarTzJzK8YwjVKEqGISNZIhpzXi/nQ=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf</key>
@@ -605,11 +605,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N8tVG0ETiQxSP0aeapsrKcTEm+Q=
+			BZL+iT9IXO+DJFB8MRx32HAGF+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			vJZj1K7YcJfMyjc62U/QjeJKxKNRAOPfO30oFCyQCUo=
+			etLwtYbnd1d3eaK2wyPje9dnDQId76rW90PQOZg+sGQ=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/FontAwesome.ttf</key>
@@ -825,11 +825,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UTVG0DBIFmateatisEV8tNWhCVI=
+			uccEgB5bE02ldVKFeKkaN1I0G5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			8IhlGJcr97tXpXy4VePf40FA/mG3JXvw+1+R6beqOzY=
+			HlqYjQ+LwRUcsok9UeNxxxVnE6iLG6Wc6SGZiEETiYM=
 			</data>
 		</dict>
 	</dict>
