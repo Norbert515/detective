@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		d+SlJl9E32H1Y7f1LggS4Kr6STg=
+		4yz1VaQkUOatLPaEpw55SGbbu58=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/flutter_assets/NOTICES</key>
 		<data>
-		cN164L9/sDqdYWIjkkjT4UN7rt4=
+		C7rCElb3D6OHSIsrar0XplKSkp4=
 		</data>
 		<key>Resources/flutter_assets/assets/SourceCodePro/SourceCodePro-Black.ttf</key>
 		<data>
@@ -124,9 +124,41 @@
 		<data>
 		qEPYPZVgGTOt4/f1+ZgE53OMCjs=
 		</data>
+		<key>Resources/flutter_assets/assets/bloc_logo_small.png</key>
+		<data>
+		LLu4SwmJaldP/ILCVHorx7l0Yd8=
+		</data>
+		<key>Resources/flutter_assets/changelog/v0-18-0.md</key>
+		<data>
+		dwU1QoEIi2i1vXdEN0ZSijmU24Q=
+		</data>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		EwhdISChevJj6bB8K52Z4eZi2yg=
+		p52jtaeNw800EHaFXuaIjbMvLKI=
+		</data>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/flutter_tool.patch</key>
+		<data>
+		wjIFnp/0j/L3QpbSfsAc9npJ4UI=
+		</data>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/package_config.json</key>
+		<data>
+		Sd8TAxppFBj999vI7+JFjYgfF5k=
+		</data>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/server.dart</key>
+		<data>
+		DsZzML8efj17jFgsMEiYQaEtm5M=
+		</data>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/starter.dart</key>
+		<data>
+		ss3sJ9cp5NpCesUQbGRhTabPhbU=
+		</data>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/test_transformer.dart</key>
+		<data>
+		apqqVR3A2rUfZ4Fdf+Ak0ljSwis=
+		</data>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/transformer.dart</key>
+		<data>
+		hR2+r60+1h/EyOGu/ZYNvy8uNQs=
 		</data>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf</key>
 		<data>
@@ -192,6 +224,10 @@
 		<data>
 		mRbj28OZDjBzz1ostMLpWCc7dTI=
 		</data>
+		<key>Resources/flutter_assets/packages/flutter_markdown/assets/logo.png</key>
+		<data>
+		FgYbvJkxcuLT594DYBvf6ei54LE=
+		</data>
 		<key>Resources/flutter_assets/packages/fluttertoast/assets/toastify.css</key>
 		<data>
 		RLNbPCJYbExa/jvemin4eeGwpmc=
@@ -242,11 +278,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d+SlJl9E32H1Y7f1LggS4Kr6STg=
+			4yz1VaQkUOatLPaEpw55SGbbu58=
 			</data>
 			<key>hash2</key>
 			<data>
-			P+AFFDdxfrdnyOv3om0QZcq36j3XPXNQYbmrC+rHN7I=
+			TXyAD3CSaQhU3E0CK3g0U95tWKJVtNW91hnRVDzF1DA=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -264,11 +300,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cN164L9/sDqdYWIjkkjT4UN7rt4=
+			C7rCElb3D6OHSIsrar0XplKSkp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			HoGBtr9JykLJTlRNMlSKPLaaFZR20NlQ6s9KG8KmSP4=
+			L1wDXp3rhPxdFQBodmNuH7A31La0x8mMFLmNqVrOOSU=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/assets/SourceCodePro/SourceCodePro-Black.ttf</key>
@@ -557,15 +593,103 @@
 			rVHjx4gGT8/SukZi31cy3ztXeIzyDHDB8+MTpt3sf5s=
 			</data>
 		</dict>
+		<key>Resources/flutter_assets/assets/bloc_logo_small.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LLu4SwmJaldP/ILCVHorx7l0Yd8=
+			</data>
+			<key>hash2</key>
+			<data>
+			89YwqriIHuAuJqx4DHdvBpVvqvLeyhku/9kBwnQooWk=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/changelog/v0-18-0.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dwU1QoEIi2i1vXdEN0ZSijmU24Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kw+EfRseiVS4t3IVGMjGi1axVPu7lMlMlhYnT+E3Y3k=
+			</data>
+		</dict>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EwhdISChevJj6bB8K52Z4eZi2yg=
+			p52jtaeNw800EHaFXuaIjbMvLKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			15h72KYXGNe9DgarTzJzK8YwjVKEqGISNZIhpzXi/nQ=
+			IV0YL2O9bh8pScnXvB4tMQKacecYBxdqNrP+hijq2ak=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/flutter_tool.patch</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wjIFnp/0j/L3QpbSfsAc9npJ4UI=
+			</data>
+			<key>hash2</key>
+			<data>
+			lo0iu7mPILrUuX2uobgzWEPM0+y9DJDgZxAKS0nJoOo=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/package_config.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Sd8TAxppFBj999vI7+JFjYgfF5k=
+			</data>
+			<key>hash2</key>
+			<data>
+			IipJgBLA5SFocG2h1wx/x9+ZN/WiEGX0fyba45DUHsM=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/server.dart</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DsZzML8efj17jFgsMEiYQaEtm5M=
+			</data>
+			<key>hash2</key>
+			<data>
+			8Z1EnenfivCQgWWZIA1Oh3qSmMfv9WI6Si2CapRxs8c=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/starter.dart</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ss3sJ9cp5NpCesUQbGRhTabPhbU=
+			</data>
+			<key>hash2</key>
+			<data>
+			fta8WhXv6o7bec2J0A9wlexND3DeT7psisAudxoZFow=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/test_transformer.dart</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			apqqVR3A2rUfZ4Fdf+Ak0ljSwis=
+			</data>
+			<key>hash2</key>
+			<data>
+			QcU2/rUj5cn/QLUA7XObgx7YDftqIDlAskVPZBJ12Xg=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/transformer.dart</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hR2+r60+1h/EyOGu/ZYNvy8uNQs=
+			</data>
+			<key>hash2</key>
+			<data>
+			emPWNP1Jsj0ULT49krMLmFtUOVedTdHHIXiuerr4hrs=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf</key>
@@ -742,6 +866,17 @@
 			<key>hash2</key>
 			<data>
 			F2vaZmHyE93kfCEU125HbsjKmq4H3VT5VQ0tKP4CtP0=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/packages/flutter_markdown/assets/logo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FgYbvJkxcuLT594DYBvf6ei54LE=
+			</data>
+			<key>hash2</key>
+			<data>
+			mW7gkRr9bS3yj6rSS53GymIdlKcoB3AqyOMWHp11r7E=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/fluttertoast/assets/toastify.css</key>
