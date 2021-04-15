@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		oCwlQUjqul/0OhTm0C8X2OnBgeU=
+		LUV2z4eu+KlppAJerjZXwue9B34=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -23,10 +23,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			uyaqOoUqFYcvIRsP0JYIR5MYCZc=
+			V17HeZrLPsECOXXBaJSRmmohG+c=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"db2ffddde2e8988fc29daf41fecbd3ea9319bae3" or cdhash H"bb26aa3a852a15872f211b0fd096084793180997"</string>
+			<string>cdhash H"b704a6c5dff864dbad3878575dca15e872d8bb9d" or cdhash H"575ec7799acb3ec1023975c16894919a6a211be7"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -41,10 +41,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			h0GksK30tacNA283io1zufVooy4=
+			Ey8gNb0aHZT8wxY4R4OkDCkHY+c=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"91f12e393d6658aef39555808222466ea3f55350" or cdhash H"8741a4b0adf4b5a70d036f378a8d73b9f568a32e"</string>
+			<string>cdhash H"39ff6db7f386248b1854f20275d210e3b7153f30" or cdhash H"132f2035bd1a1d94fcc316384783a40c290763e7"</string>
 		</dict>
 		<key>Frameworks/libswiftAppKit.dylib</key>
 		<dict>
@@ -230,19 +230,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			xBJ8OAup8HCGGQACuJvZqyH8a9s=
+			WpnUvzjnthc2wmm2+0hEAktoDPA=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"adb166cabd0d497a01f92733e0e31b1424a959f1" or cdhash H"c4127c380ba9f07086190002b89bd9ab21fc6bdb"</string>
+			<string>cdhash H"b53ed82fe012fe7bb49ace2492bfc2253c1d5d50" or cdhash H"5a99d4bf38e7b61736c269b6fb4844024b680cf0"</string>
 		</dict>
 		<key>Frameworks/shared_preferences_macos.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			70auKxCF+v11UCTGL5BEi7xuv1Q=
+			Nf/sllwuGyNxzCZEelO8Xwcb7Ws=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"460408be11774ce6939ea2ea69357c92e5300758" or cdhash H"ef46ae2b1085fafd755024c62f90448bbc6ebf54"</string>
+			<string>cdhash H"d364228fb2038dec9ee5f8305cf19f09ad77649c" or cdhash H"35ffec965c2e1b2371cc26447a53bc5f071bed6b"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -259,11 +259,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oCwlQUjqul/0OhTm0C8X2OnBgeU=
+			LUV2z4eu+KlppAJerjZXwue9B34=
 			</data>
 			<key>hash2</key>
 			<data>
-			bxIFKHrPwlm7NRns+aKeK9QOYlri4aereqmX1HLKLyQ=
+			UXTet4IJNMBlUBA4+ybeLMxKnzMbxNFT3rnTH3ktM2E=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>

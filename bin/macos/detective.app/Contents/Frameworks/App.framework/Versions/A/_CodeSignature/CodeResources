@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		4yz1VaQkUOatLPaEpw55SGbbu58=
+		1v55GIoYwcRpDpPKA8z7MsSGau4=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -136,30 +136,6 @@
 		<data>
 		p52jtaeNw800EHaFXuaIjbMvLKI=
 		</data>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/flutter_tool.patch</key>
-		<data>
-		wjIFnp/0j/L3QpbSfsAc9npJ4UI=
-		</data>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/package_config.json</key>
-		<data>
-		Sd8TAxppFBj999vI7+JFjYgfF5k=
-		</data>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/server.dart</key>
-		<data>
-		DsZzML8efj17jFgsMEiYQaEtm5M=
-		</data>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/starter.dart</key>
-		<data>
-		ss3sJ9cp5NpCesUQbGRhTabPhbU=
-		</data>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/test_transformer.dart</key>
-		<data>
-		apqqVR3A2rUfZ4Fdf+Ak0ljSwis=
-		</data>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/transformer.dart</key>
-		<data>
-		hR2+r60+1h/EyOGu/ZYNvy8uNQs=
-		</data>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf</key>
 		<data>
 		TneGhDkoD7Q01Gl8e5EScUBsgfM=
@@ -278,11 +254,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4yz1VaQkUOatLPaEpw55SGbbu58=
+			1v55GIoYwcRpDpPKA8z7MsSGau4=
 			</data>
 			<key>hash2</key>
 			<data>
-			TXyAD3CSaQhU3E0CK3g0U95tWKJVtNW91hnRVDzF1DA=
+			rDqGBwm3dfblU1fkUDTSRD40xXG3pYzgXdsU1qB7144=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -624,72 +600,6 @@
 			<key>hash2</key>
 			<data>
 			IV0YL2O9bh8pScnXvB4tMQKacecYBxdqNrP+hijq2ak=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/flutter_tool.patch</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wjIFnp/0j/L3QpbSfsAc9npJ4UI=
-			</data>
-			<key>hash2</key>
-			<data>
-			lo0iu7mPILrUuX2uobgzWEPM0+y9DJDgZxAKS0nJoOo=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/package_config.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Sd8TAxppFBj999vI7+JFjYgfF5k=
-			</data>
-			<key>hash2</key>
-			<data>
-			IipJgBLA5SFocG2h1wx/x9+ZN/WiEGX0fyba45DUHsM=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/server.dart</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DsZzML8efj17jFgsMEiYQaEtm5M=
-			</data>
-			<key>hash2</key>
-			<data>
-			8Z1EnenfivCQgWWZIA1Oh3qSmMfv9WI6Si2CapRxs8c=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/starter.dart</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ss3sJ9cp5NpCesUQbGRhTabPhbU=
-			</data>
-			<key>hash2</key>
-			<data>
-			fta8WhXv6o7bec2J0A9wlexND3DeT7psisAudxoZFow=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/test_transformer.dart</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			apqqVR3A2rUfZ4Fdf+Ak0ljSwis=
-			</data>
-			<key>hash2</key>
-			<data>
-			QcU2/rUj5cn/QLUA7XObgx7YDftqIDlAskVPZBJ12Xg=
-			</data>
-		</dict>
-		<key>Resources/flutter_assets/lib/modules/kernel_transformer/transformers/transformer/transformer.dart</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hR2+r60+1h/EyOGu/ZYNvy8uNQs=
-			</data>
-			<key>hash2</key>
-			<data>
-			emPWNP1Jsj0ULT49krMLmFtUOVedTdHHIXiuerr4hrs=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf</key>
