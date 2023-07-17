@@ -10,7 +10,7 @@ import 'package:uuid/uuid.dart';
 /// application can listen to file creations and execute the commands in response to that
 class CommandSaver {
 
-  Future<void> saveCommand(Uri binUri, String command) async {
+  Future<void> saveCommand(Uri binUri, String? command) async {
     if(command == null) {
       return;
     }

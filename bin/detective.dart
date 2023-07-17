@@ -36,11 +36,11 @@ void main(List<String> args) async {
 
   var result = parser.parse(args);
 
-  String command;
+  String? command;
 
   if (result.command != null) {
-    if (result.command.name == 'watch') {
-      var rest = result.command.rest;
+    if (result.command!.name == 'watch') {
+      var rest = result.command!.rest;
       if (rest.length != 1) {
         print('Please specify the class to watch');
       }
@@ -48,8 +48,8 @@ void main(List<String> args) async {
 
       command = 'watch $className';
       env['command'] = command;
-    } else if (result.command.name == 'call') {
-      var rest = result.command.rest;
+    } else if (result.command!.name == 'call') {
+      var rest = result.command!.rest;
       if (rest.length != 2) {
         print('Please specify the class and the function to call');
       }
